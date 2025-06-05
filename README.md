@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
  
-Este readme, explica os problemas e as soluções, mostrando imagens ilustrativas para isso.
+Este readme, explica os problemas e as soluções, mostrando imagens ilustrativas para isso. Porém como não da para colocar imagens aqui, no docs (último link), você encontrará tudo isso!
 
 ---
 

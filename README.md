@@ -56,6 +56,6 @@ apropriado. Em nosso site terá a localização mais próxima da onde essas ONGs
 - **Repositório GitHub:** [https://github.com/GuilhermeBM3012/GS---Arduino.git](https://github.com/GuilhermeBM3012/GS---Arduino.git)
 - **Código Comentado:** https://wokwi.com/projects/432866645682391041
 - **Vídeo:** https://www.youtube.com/watch?v=RDscht0qVLo
-- **Docs:** https://docs.google.com/document/d/1lrElj20rGcp4JIO9paKSReqPJXFc0P0_yUQEBLMiFDk/edit?usp=sharing
+- **Docs:** https://docs.google.com/document/d/1lrElj20rGcp4JIO9paKSReqPJXFc0P0_yUQEBLMiFDk/edit?usp=sharing 
 
   Esse último, serve apenas para mostrar as imagens com os problemas, soluções e imagens. Além de ter os links do github, do código e vídeo, caso não abra por aqui

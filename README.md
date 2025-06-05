@@ -43,11 +43,11 @@ apropriado. Em nosso site terá a localização mais próxima da onde essas ONGs
 
 ## 👥 Equipe
 
-| Nome                               | GitHub                                                |
-| ---------------------------------- | ----------------------------------------------------- |
-| Leandro Afonso Silva Santos Júnior | [TLean07](https://github.com/TLean07)                 |
-| Luigi Escudero Grigoletto          | [Lueg2007](https://github.com/Lueg2007)               |
-| Guilherme Barone Milani            | [GuilhermeBM3012](https://github.com/GuilhermeBM3012) |
+| Nome                                            | GitHub                                                |
+| ----------------------------------------------- | ----------------------------------------------------- |
+| Leandro Afonso Silva Santos Júnior (rm: 561344) | [TLean07](https://github.com/TLean07)                 |
+| Luigi Escudero Grigoletto (rm: 562505)          | [Lueg2007](https://github.com/Lueg2007)               |
+| Guilherme Barone Milani (rm: 562114)            | [GuilhermeBM3012](https://github.com/GuilhermeBM3012) |
 
 ---
  
